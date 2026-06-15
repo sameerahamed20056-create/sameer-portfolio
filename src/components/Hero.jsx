@@ -34,7 +34,7 @@ function Hero() {
 
         <button className="text-white border-2 border-[#38BDF8] 
                            px-5 py-2 rounded-md hover:bg-[#38BDF8] transition">
-          <i className="bi bi-download"></i><a href="/assets/SAMEER_AHMED_RESUME.pdf" target="_blank"> Download CV</a>
+          <i className="bi bi-download"></i><a href="/assets/SAMEER_RESUME.pdf" target="_blank"> Download CV</a>
         </button>
       </div>
 
