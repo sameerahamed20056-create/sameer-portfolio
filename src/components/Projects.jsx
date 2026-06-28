@@ -27,6 +27,16 @@ const projects = [
     link: "https://expense-tracker-zjue.onrender.com/"
 
   },
+
+  {
+    id: 4,
+    title: "Server Health Monitor",
+    description: "A responsive web application for monitoring real-time CPU, RAM, Disk usage, system information, network statistics, and running processes.",
+    image: "/assets/server.jpeg",
+    skills: ["Python", "Django", "HTML", "CSS", "Bootstrap", "JavaScript", "psutil", "Git", "GitHub"],
+    link: "https://server-health-monitor-s2jo.onrender.com"
+
+  },
 ];
 
 const Projects = () => {
