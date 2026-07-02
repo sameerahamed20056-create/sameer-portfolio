@@ -17,8 +17,8 @@ function About() {
         <h2 className="text-3xl font-bold mb-6">About <span className="text-[#38BDF8]">Me</span></h2>
 
          <p className="text-gray-400 leading-relaxed mb-8">
-            Passionate about software development and problem-solving, I am currently building projects to strengthen my skills and gain practical experience. I enjoy learning new technologies and creating user-friendly applications. I am always eager to take on new challenges and continue growing as a developer.
-        </p>
+  Aspiring Python Full Stack Developer skilled in Python, Django, Flask, React.js, REST APIs, and MySQL. Passionate about building responsive web applications, troubleshooting and debugging issues, and writing clean, maintainable code. Continuously learning new technologies while strengthening my full-stack development skills through hands-on projects.
+</p>
 
         <div className="flex gap-6 mb-6 border-b border-gray-700 pb-2">
           <button

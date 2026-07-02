@@ -1,21 +1,23 @@
 const projects = [
 
-    {
+
+  {
     id: 1,
+    title: "Server Health Monitor",
+    description: "A responsive web application for monitoring real-time CPU, RAM, Disk usage, system information, network statistics, and running processes.",
+    image: "/assets/server.jpeg",
+    skills: ["Python", "Django", "HTML", "CSS", "Bootstrap", "JavaScript", "psutil", "Git", "GitHub"],
+    link: "https://server-health-monitor-s2jo.onrender.com"
+
+  },
+
+  {
+    id: 2,
     title: "Developer Growth Dashboard",
     description: "A dashboard to track developer activity and visualize productivity using charts.",
     image: "/assets/dev.jpeg",
     skills: ["Python", "Flask", "SQLite", "SQLAlchemy", "Matplotlib", "HTML","Jinja", "Bootstrap"],
     link: "https://developer-growth-dashboard.onrender.com"
-  },
-
-  {
-    id: 2,
-    title: "SalesVision Dashboard",
-    description: "A Streamlit-based dashboard for monitoring and visualizing real-time data.",
-    image: "/assets/dash.jpeg",
-    skills: ["Python", "Flask", "Streamlit", "Pandas"],
-    link: "https://real-timedashboard-iv5oxxg5xdwgxoogbszhhl.streamlit.app/"
   },
 
   {
@@ -30,13 +32,14 @@ const projects = [
 
   {
     id: 4,
-    title: "Server Health Monitor",
-    description: "A responsive web application for monitoring real-time CPU, RAM, Disk usage, system information, network statistics, and running processes.",
-    image: "/assets/server.jpeg",
-    skills: ["Python", "Django", "HTML", "CSS", "Bootstrap", "JavaScript", "psutil", "Git", "GitHub"],
-    link: "https://server-health-monitor-s2jo.onrender.com"
-
+    title: "SalesVision Dashboard",
+    description: "A Streamlit-based dashboard for monitoring and visualizing real-time data.",
+    image: "/assets/dash.jpeg",
+    skills: ["Python", "Flask", "Streamlit", "Pandas"],
+    link: "https://real-timedashboard-iv5oxxg5xdwgxoogbszhhl.streamlit.app/"
   },
+
+
 ];
 
 const Projects = () => {

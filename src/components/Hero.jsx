@@ -22,9 +22,9 @@ function Hero() {
         Python Full Stack Developer
       </h3>
 
-      <p className="text-gray-300 max-w-xl leading-relaxed mx-auto mt-4">
-        Aspiring Python Full Stack Developer passionate about web development and modern technologies. I enjoy building responsive applications, learning through projects, and continuously improving my skills to grow as a software developer.
-      </p>
+<p className="text-gray-300 max-w-xl leading-relaxed mx-auto mt-4">
+  Aspiring Python Full Stack Developer skilled in Python, Django, Flask, React.js, and MySQL, passionate about building responsive web applications and solving real-world problems.
+</p>
 
       <div className="flex gap-5 flex-wrap justify-center mt-6">
         <button className="text-white border-2 border-[#38BDF8] 
@@ -34,7 +34,7 @@ function Hero() {
 
         <button className="text-white border-2 border-[#38BDF8] 
                            px-5 py-2 rounded-md hover:bg-[#38BDF8] transition">
-          <i className="bi bi-download"></i><a href="/assets/SAMEER_RESUME.pdf" target="_blank"> Download CV</a>
+          <i className="bi bi-download"></i><a href="/assets/SAMEER_1CV.pdf" target="_blank"> Download CV</a>
         </button>
       </div>
 
